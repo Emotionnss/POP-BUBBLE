@@ -135,7 +135,7 @@ The leaderboard displays the highest-scoring players, allowing players to compar
 
 Watch the gameplay demonstration to see Pop Bubble in action!
 
-[\[Watch the Pop Bubble Gameplay Trailer\](#)](https://www.youtube.com/watch?v=egKLqcnGYO8)
+[\[Watch the Pop Bubble Gameplay Trailer\](https://www.youtube.com/watch?v=egKLqcnGYO8)
 
 ---
 
